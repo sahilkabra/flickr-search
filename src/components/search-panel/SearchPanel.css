@@ -1,0 +1,12 @@
+.search-panel__group {
+    width: 100%;
+}
+.search-panel__input {
+    width: 83%;
+}
+.search-panel__results__img {
+    margin-bottom: 2em;
+}
+.search-panel__pages label {
+    margin-right: 1em;
+}

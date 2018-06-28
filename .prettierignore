@@ -1,0 +1,30 @@
+# Directories
+.bitbucket/
+.git/
+.idea/
+.temp/
+.vs/
+build/
+node_modules/
+out/
+
+# Extensions
+*.css
+*.html
+*.ico
+*.png
+*.py
+*.scss
+*.snap
+
+# Files
+.gitattributes
+.gitignore
+.gitreview
+.npmignore
+.npmrc
+.prettierignore
+package.json
+package-lock.json
+sonar-project.properties
+tags*
