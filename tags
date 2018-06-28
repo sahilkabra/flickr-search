@@ -700,7 +700,7 @@ appPublic	config/paths.js	/^    appPublic: resolveApp('public'),$/;"	P
 appSrc	config/paths.js	/^    appSrc: resolveApp('src'),$/;"	P
 appTsConfig	config/paths.js	/^    appTsConfig: resolveApp('tsconfig.json'),$/;"	P
 appTsLint	config/paths.js	/^    appTsLint: resolveApp('tslint.json'),$/;"	P
-appTsProdConfig	config/paths.js	/^    appTsProdConfig: resolveApp('tsconfig.prod.json'),$/;"	P
+appTsProdConfig	config/paths.js	/^    appTsProdConfig: resolveApp('tsconfig.json'),$/;"	P
 applyStyle	public/bootstrap/js/bootstrap.bundle.js	/^function applyStyle(data) {$/;"	F
 applyStyleOnLoad	public/bootstrap/js/bootstrap.bundle.js	/^function applyStyleOnLoad(reference, popper, options, modifierOptions, state) {$/;"	F
 area	public/bootstrap/js/bootstrap.bundle.js	/^      area: getArea(rects[key])$/;"	P
