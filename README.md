@@ -23,6 +23,7 @@ The project has been developed with a view to demonstrate/practice using RxJS wi
 ## Getting started
 ### Setup
 1. Node v8.11 with npm v6
+1. `npm install` to install all required dependencies
 1. `npm run start` to start development
 1. `npm run build` to create production ready build
 1. `npm run test` to run the tests
